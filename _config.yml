@@ -21,7 +21,7 @@ repository               : "ilonadielen/ilonadielen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ilona Dielen"
   pronouns         : # example: "she/her"  
   bio              : "Environmental & Urban Economics · Air Pollution & Health · Applied Econometrics"
