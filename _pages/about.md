@@ -24,5 +24,5 @@ My research measures the **environmental and health costs of economic decisions 
 - Qualified as *Maître de conférences* (Assistant Professor) by the French National Council of Universities (CNU, Section 05), 2026
 - About 400 hours of teaching since 2021 in econometrics, R, SAS, macroeconomics and environmental economics, from Bachelor to Master level
 
-I am currently **on the job market for postdoctoral positions** in environmental economics.
+I am currently **on the job market for positions** in environmental economics.
 
