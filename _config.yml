@@ -7,8 +7,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ilona Dielen - Personnal Website"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Personnal Website"
 title_separator          : "-"
 name                     : &name "Ilona Dielen"
 description              : &description "Ilona Dielen, environmental and urban economist (PhD). Postdoctoral researcher at ERUDITE, Université Paris-Est Créteil. Air pollution, health, remote work, competition and the environment."
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ilona Dielen"
   pronouns         : # example: "she/her"  
-  bio              : "Environmental & Urban Economics · Air Pollution & Health · Applied Econometrics"
+  bio              : "Environmental Economics · Applied Microeonomics"
   location         : "Paris, France"
   employer         : "ERUDITE, Université Paris-Est Créteil"
   uri              : # URL
